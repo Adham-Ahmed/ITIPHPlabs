@@ -1,0 +1,22 @@
+{
+    "name": "fourthdaymicrosot/adham",
+    "description": "php 4th day code",
+    "autoload": {
+        "psr-4": {
+            "Fourthdaymicrosot\\Adham\\": "src/"
+        }
+        ,
+        "files": ["config.php"]
+    },
+    "authors": [
+        {
+            "name": "Adham Hassan",
+            "email": "adhamahmed1234321@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/database": "^9.3"
+        
+    }
+    
+}
